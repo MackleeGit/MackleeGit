@@ -1,4 +1,4 @@
-# Hey, I'm Marklee 👋  
+# Hey, I'm Macklee 👋  
 **Full-Stack Developer | Android (Kotlin + Compose) | Django | Firebase | SQL | Cloud**
 
 I build apps, automate things, design systems, and write clean code that actually works.
